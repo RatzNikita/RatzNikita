@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=RatzNikita&color=36BCF7&style=flat-square" alt="GitHub page views">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RatzNikita&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Ratz&nbsp;Nikita's&nbsp;Stats&title_color=36BCF7&icon_color=36BCF7&text_color=36BCF7&bg_color=292929&count_private=true" alt="GitHub readme stats" width=450px align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=RatzNikita&count_private=true&title_color=36BCF7&icon_color=36BCF7&text_color=36BCF7&bg_color=292929&hide_border=true" alt="GitHub readme stats" width=450px align=right>
 
 ### I'm:
 - 🧙‍♂️ currently working as a Software Engineer.
