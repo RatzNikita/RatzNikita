@@ -14,7 +14,7 @@
 
 ### I'm:
 - 🧙‍♂️ currently working as a Software Engineer.
-- 🌱 currently learning :electron: React :electron:
+- 🌱 currently learning NextJS
 - 🐈 currently working on my pet projects.
 - ☕ coffeer
 ### About me:
