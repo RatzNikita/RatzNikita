@@ -29,7 +29,3 @@
  <br/>
  <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="35px" height="35px" alt="Gmail icon" align="center">   ratznikita163@gmail.com</img>
  
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
